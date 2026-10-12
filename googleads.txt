@@ -1,4 +1,3 @@
-googleads
 googleads.g.doubleclick.net
 yt3.ggpht.com
 play.googleapis.com
